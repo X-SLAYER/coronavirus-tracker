@@ -1,4 +1,4 @@
-# Coronavirus Tracker - Get the latest Coronavirus Virus updates
+# Coronavirus Tracker - Get the latest Coronavirus updates
 
 an app created in flutter to track Coronavirus on real time 
 inspired from [coronavirus.app](https://coronavirus.app/)
