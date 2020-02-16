@@ -1,16 +1,20 @@
-# corona_tracker
+# Coronavirus Tracker - Get the latest Coronavirus Virus updates
 
-A new Flutter project.
+an app created in flutter to track Coronavirus on real time 
+inspired from [coronavirus.app] (https://coronavirus.app/)
+ 
+ # Show some ⭐ to the the repo for support
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Downloading](https://i.imgur.com/d5FMmSN.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Downloading](https://i.imgur.com/RV4T1pN.png)
+
+
+![Downloading](https://i.imgur.com/Wg76Nim.png)
+
+- [Youtube Channel](https://www.youtube.com/c/XSLAYERTN)
+- [Linkedin](https://www.linkedin.com/in/x-slayer/)
